@@ -1,0 +1,10 @@
+1. camera code
+http://stackoverflow.com/questions/6478375/how-can-i-manipulate-the-camera-preview
+http://www.41post.com/3470/programming/android-retrieving-the-camera-preview-as-a-pixel-array
+
+2. sender code
+http://stackoverflow.com/questions/11067723/encoding-and-decoding-byte-with-zxing
+https://androidsnippets.wordpress.com/2012/08/07/how-to-convert-a-file-to-byte-array/
+
+3. flashlight code
+http://stackoverflow.com/questions/5272388/extract-black-and-white-image-from-android-cameras-nv21-format
