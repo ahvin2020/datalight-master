@@ -1,4 +1,6 @@
 # datalight-master
+Datalight-master is an app to send files directly using QRCode. The sender app breaks up files into multiple QRCodes. Then the receiver app receives by scanning the receiver's screen, which will flash all of the QRCodes in quick succession.
+
 1. setting up:
 - put DataLight project folder AND aFileChooser project folder in same directory
 - in DataLight, set aFileChooser and project library (right click Data Light -> Android, then make sure aFileChooser is selected as Library)
